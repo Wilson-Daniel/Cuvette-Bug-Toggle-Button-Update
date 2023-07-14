@@ -1,4 +1,10 @@
 # Cuvette Toggle Button Update
+# Problem
+
+While filling the college and school detail, I noticed that the Toggle button between college and school is not properly visible and appears to be a simple dot.
+
+# Solution
+Through HTML/CSS I have update the Toggle button which looks good and user friendly. 
 
 ## Screenshots
 
@@ -11,10 +17,5 @@ https://github.com/Wilson-Daniel/Web3Nest-Project/assets/77532147/e4e093e8-5fa5-
 
 
 
-# Problem
 
-While filling the college and school detail, I noticed that the Toggle button between college and school is not properly visible and appears to be a simple dot.
-
-# Solution
-Through HTML/CSS I have update the Toggle button which looks good and user friendly. 
 
